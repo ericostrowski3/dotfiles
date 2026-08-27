@@ -1,0 +1,10 @@
+# Warm, high-contrast colors with a dark Gruvbox background.
+theme = Gruvbox Dark
+
+# Nerd Font glyphs are used by eza's file and folder icons.
+font-family = MesloLGM Nerd Font Mono
+font-size = 14
+
+# Give the terminal a little breathing room.
+window-padding-x = 10
+window-padding-y = 8
